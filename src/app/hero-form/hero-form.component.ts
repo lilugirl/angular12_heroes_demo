@@ -16,7 +16,7 @@ export class HeroFormComponent  {
   }  
 
   newHero(){
-    this.model=new Hero(42,'','','');
+    this.model=new Hero(42,'','');
   }
  
 
